@@ -1,0 +1,7 @@
+region,2007_2008,2009,2010,2011_2012,2013,2014,2014_2015,2016_2017,2017_2018,2019_2020,2020_2021
+1,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality,newborn_mortality
+Total,10,11,0,8,0,,10,0,10,8,10
+2,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months,child_mortality_<12months
+Total,19,20,17,17,16,17,15,15,15,13,15
+3,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months,child_mortality_12_48_months
+Total,27,26,23,21,21,20,18,18,19,16,18
